@@ -17,3 +17,5 @@ You can start adding the stories by modifying `components/yourcomponent/componen
 2. In the build command option set it to `yarn build-storybook`
 3. The output directory option should contain `/storybook-static`
 4. Deploy! 🎉
+
+![visual](https://i.ibb.co/KsmDS4f/image.png)
