@@ -13,6 +13,7 @@
 /out/
 
 # production
+/storybook-static
 /build
 
 # misc
